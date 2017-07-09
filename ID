@@ -1,0 +1,11 @@
+# FishGame
+
+public enum ID {
+
+    Player(),
+    SmallFish(),
+    BigFish(),
+    BasicEnemy(),
+    Food(),
+    MenuParticle();
+}
